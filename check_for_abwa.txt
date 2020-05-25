@@ -1,4 +1,1 @@
-{'ver1':'0', 'ver2':'20'}
-
-<li>Mod By ABMODS</li>
-<li>My Channel:- t.me/waextreme</li>
+{'ver1':'', 'ver2':''}
