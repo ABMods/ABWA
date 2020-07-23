@@ -20,7 +20,7 @@ Adicionada opção para desativar a navegação na tela principal
 Adicionada opção para ocultar o ícone de chamada de vídeo na tela de conversa
 Adicionada opção para ocultar o ícone de chamada na tela de bate-papo
 Adicionada opção para ocultar o ícone de pesquisa na tela principal
-Adicionada opção para limpar arquivos de cache da pasta "WhatsApp"
+Adicionada opção para limpar arquivos de cache da pasta 'WhatsApp'
 Adicionada opção ao Backup, como Titanium
 Adicionada opção para Restaurar backup mod
 Corrigido erro ao encaminhar mensagens
@@ -33,7 +33,7 @@ Agregada opcion para deshabilitar la navigacion en la pantalla principal
 Agregada opcion para ocultar icono de video llamada en la pantalla de conversacion
 Agregada opcion para ocultar icono de llamada en la pantalla de conversacion
 Agregada opcion para ocultar icono de busqueda en la pantalla principal
-Agregada opcion para limpiar archivos cache de la carpeta "WhatsApp"
+Agregada opcion para limpiar archivos cache de la carpeta 'WhatsApp'
 Agregada opcion para hacer Copia de Seguridad, como Titanium
 Agregada opcion para Restaurar la copia de seguridad del mod
 Arreglado error al reenviar mensajes
@@ -46,7 +46,7 @@ Mas mejoras y correcciones de errores/n Editado por ABMODS", "changelog_3":"تم
 تمت إضافة خيار لإخفاء رمز مكالمة الفيديو على شاشة المحادثة
 تمت إضافة خيار لإخفاء رمز الاتصال على شاشة الدردشة
 تمت إضافة خيار لإخفاء رمز البحث على الشاشة الرئيسية
-تمت إضافة خيار لمسح ملفات ذاكرة التخزين المؤقت من مجلد "WhatsApp"
+تمت إضافة خيار لمسح ملفات ذاكرة التخزين المؤقت من مجلد 'WhatsApp'
 تمت إضافة خيار النسخ الاحتياطي ، مثل التيتانيوم
 تمت إضافة خيار استعادة النسخ الاحتياطي mod
 خطأ ثابت عند إعادة توجيه الرسائل
