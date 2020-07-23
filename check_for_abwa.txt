@@ -12,9 +12,7 @@ Added option to Backup, like Titanium
 Added option to Restore mod backup
 Fixed error when forwarding messages
 Fixed Blue tick on Reply bug
-More improvements and bug fixes
-
-Edited by ABMODS", "changelog_1":"Nova base atualizada para 2.20.194.16
+More improvements and bug fixes/n Edited by ABMODS", "changelog_1":"Nova base atualizada para 2.20.194.16
 Opção adicionada para reiniciar o aplicativo
 Menu Configurações adicionadas
 Adicionado novo menu de atualizações em tempo real
@@ -27,9 +25,7 @@ Adicionada opção ao Backup, como Titanium
 Adicionada opção para Restaurar backup mod
 Corrigido erro ao encaminhar mensagens
 Corrigido o tique azul no bug de resposta
-Mais melhorias e correções de bugs
-
-Editado por ABMODS", "changelog_2":"Nueva base actualizada a 2.20.194.16
+Mais melhorias e correções de bugs/n Editado por ABMODS", "changelog_2":"Nueva base actualizada a 2.20.194.16
 Agregada opcion para Reiniciar Aplicacion
 Agregado menu de Ajustes
 Agregada nuevo menu de Actualizaciones en Tiempo Real
@@ -42,9 +38,7 @@ Agregada opcion para hacer Copia de Seguridad, como Titanium
 Agregada opcion para Restaurar la copia de seguridad del mod
 Arreglado error al reenviar mensajes
 Arreglado error del Blue tick on Reply
-Mas mejoras y correcciones de errores
-
-Editado por ABMODS", "changelog_3":"تم تحديث القاعدة الجديدة إلى 2.20.194.16
+Mas mejoras y correcciones de errores/n Editado por ABMODS", "changelog_3":"تم تحديث القاعدة الجديدة إلى 2.20.194.16
 تمت إضافة خيار إلى إعادة تشغيل التطبيق
 قائمة الإعدادات المضافة
 تمت إضافة قائمة تحديثات الوقت الفعلي الجديدة
@@ -57,8 +51,7 @@ Editado por ABMODS", "changelog_3":"تم تحديث القاعدة الجديد�
 تمت إضافة خيار استعادة النسخ الاحتياطي mod
 خطأ ثابت عند إعادة توجيه الرسائل
 علامة زرقاء ثابتة على خطأ الرد
-المزيد من التحسينات وإصلاح الأخطاء
-
+المزيد من التحسينات وإصلاح الأخطاء/n
 حرره ABMODS", "changelog_4":"",
 "changelog_5":""
 }
