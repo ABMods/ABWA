@@ -7,7 +7,7 @@ Added option to disable navigation on the main screen
 Added option to hide video call icon on the conversation screen
 Added option to hide call icon on chat screen
 Added option to hide search icon on the main screen
-Added option to clear cache files from "WhatsApp" folder
+Added option to clear cache files from 'WhatsApp' folder
 Added option to Backup, like Titanium
 Added option to Restore mod backup
 Fixed error when forwarding messages
