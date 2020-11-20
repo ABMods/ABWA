@@ -1,0 +1,16 @@
+{"version_code":205218002,"content":"
+<p>Update v2.00</p>
+
+
+<li> New Base Updated to 2.20.205.13 Stable Base</li>
+<li> Added All Privacy Settings</li>
+<li> Added option to copy/download status</li>
+<li> Enabled option download Profile Photo</li>
+<li> Enable all hidden features </li>
+<li> Fixed Hide view status</li>
+<li> Bugs fixes and speed improvements...</li>
+ 
+
+
+","url":"https://www.abmods.xyz/2020/11/abwa.html?m=1"
+}
