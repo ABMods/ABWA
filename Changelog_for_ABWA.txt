@@ -1,5 +1,5 @@
 {"version_code":205513001,"content":"
-<p>Update v2.00</p>
+<p>Update v2.0</p>
 
 
 <li> New Base Updated to 2.20.205.13 Stable Base</li>
