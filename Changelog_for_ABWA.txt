@@ -1,16 +1,14 @@
 {"version_code":205513001,"content":"
-<p>Update v2.0</p>
+<p>Update v2.10</p>
 
 
-<li> New Base Updated to 2.20.205.13 Stable Base</li>
-<li> Added All Privacy Settings</li>
-<li> Added option to copy/download status</li>
-<li> Enabled option download Profile Photo</li>
-<li> Enable all hidden features </li>
-<li> Fixed Hide view status</li>
+<li> Fixed DND Mode ✈️</li>
+<li> Fixed other minor crashes</li>
+<li> Optimization and code cleaning.</li>
+<li> Fixed other minor crashes</li>
 <li> Bugs fixes and speed improvements...</li>
  
 
 
-","url":"https://www.abmods.xyz/2020/11/abwa.html?m=1"
+","url":"https://www.abmods-team.epizy.com/?i=1"
 }
