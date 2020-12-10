@@ -2,7 +2,7 @@
 <p>Update v2.10</p>
 
 
-<li> Fixed DND Mode ✈️</li>
+<li> Fixed Icon DND Mode ✈️</li>
 <li> Fixed other minor crashes</li>
 <li> Optimization and code cleaning.</li>
 <li> Fixed other minor crashes</li>
@@ -10,5 +10,5 @@
  
 
 
-","url":"https://www.abmods-team.epizy.com/?i=1"
+","url":"https://abmods-team.epizy.com/abwa.html"
 }
