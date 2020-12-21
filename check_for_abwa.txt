@@ -1,5 +1,5 @@
-{
-	"versionCode": 2,
-	"cancellable": false,
-	"url": "http://tiny.cc/BuySellBD"
+{ 
+"version":"4.00",
+ "title":"Update Found", 
+"description":"🔒 Privacy\n 😂 test", "download":"https://t.me/ABModsOfficial"
 }
