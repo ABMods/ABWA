@@ -1,14 +1,5 @@
-{"version_code":205513001,"content":"
-<p>Update v2.10</p>
-
-
-<li> Fixed Icon DND Mode ✈️</li>
-<li> Fixed other minor crashes</li>
-<li> Optimization and code cleaning.</li>
-<li> Fixed other minor crashes</li>
-<li> Bugs fixes and speed improvements...</li>
- 
-
-
-","url":"https://abmods-team.epizy.com/abwa.html"
+{ 
+"Codigo":"1",
+ "title":"Update Found", 
+"description":"🔒 Privacy\n 😂 test", "download":"https://t.me/ABModsOfficial"
 }
