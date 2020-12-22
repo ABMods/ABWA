@@ -1,5 +1,3 @@
 { 
-"Codigo":"1",
- "title":"Update Found", 
-"description":"🔒 Privacy\n 😂 test", "download":"https://t.me/ABModsOfficial"
+"Codigo":"2"
 }
